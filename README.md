@@ -1,4 +1,5 @@
 # rsschool-cv
 
 ## Materials
-- https://github.com/humster05/rsschool-cv/blob/gh-pages/cv.md 
+- https://humster05.github.io/rsschool-cv/cv
+  
